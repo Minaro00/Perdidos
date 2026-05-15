@@ -5,14 +5,16 @@
  
 
 
-
-<img align="center" src="WalkingGirl_front01.png" width="600" height=auto alt="Logotipo"/>
-
-
+<!---- Portada ----> 
+<img align="center" src="WalkingGirl_front01.png" width="300" height=auto alt="Logotipo"/>
 
 
 
-### Proyecto de: 
+
+
+### Proyecto realizado por:
+
+### Enlace a Itch.io: ____________
 
 #### Facultad de Bellas Artes. Universidad de Granada, 202X
 
