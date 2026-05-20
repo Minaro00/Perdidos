@@ -6,7 +6,8 @@
 
 
 <!---- Portada ----> 
-<img align="center" src="WalkingGirl_front01.png" width="300" height=auto alt="Logotipo"/>
+<img width="400" height="500" alt="almostopen" src="https://github.com/user-attachments/assets/736f05f4-33ce-4a96-85fe-54e99e86546f" />
+
 
 
 
@@ -14,7 +15,7 @@
 
 ### Proyecto realizado por:
 
-### Enlace a Itch.io: ____________
+### Enlace a Itch.io: https://minaro00.itch.io/los-objetos-perdidos
 
 #### Facultad de Bellas Artes. Universidad de Granada, 202X
 
