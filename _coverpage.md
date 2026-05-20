@@ -17,7 +17,7 @@
 
 ### Enlace a Itch.io: https://minaro00.itch.io/los-objetos-perdidos
 
-#### Facultad de Bellas Artes. Universidad de Granada, 202X
+#### Facultad de Bellas Artes. Universidad de Granada, 2026
 
 
 
