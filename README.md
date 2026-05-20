@@ -8,7 +8,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Los Objetos Perdidos
 
 **Web:**   (url github.io)
 
@@ -16,11 +16,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Una historia de supervivencia, el protagonista tiene que averiguar sus orígenes y recuperarse con su familia, sea dónde estén. Con ayuda de su mejor amigo, verán si consiguen sobrevivir... Un proyecto estudiantil en proceso
 
 **Estilo/género:**  Sidescroller, RPG
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : <img width="465" height="119" alt="Logotipo" src="https://github.com/user-attachments/assets/a5393ab2-1e77-4276-ab9f-ebe9c9686806" />
+
 
 (insertar imágenes a resolucion de 100px alto)
 
@@ -28,11 +29,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** no tengo ni dea no me preguntes
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : hoy :3
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -41,7 +42,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](WalkingGirl_front01.png)
+<img width="1200" height="700" alt="Beginning (1)" src="https://github.com/user-attachments/assets/8e092e92-082e-4b28-92dc-1138067e6f29" />
+
 
 # 2. Memoria del proyecto 
 
