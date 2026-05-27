@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Los Objetos Perdidos
 
-**Web:**   (url github.io)
+**Web:**   [(url github.io)](https://github.com/Minaro00)
 
 **Autor:**  (Ariadna Martínez Rivas) 
 
