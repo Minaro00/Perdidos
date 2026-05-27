@@ -35,7 +35,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
+- Github: Minaro00
 - Tiktok: minaro2610
 - Instagram: minaro00
 
@@ -73,25 +73,19 @@ Empecé por un guión que había creado en mi tiempo libre y decidí utilizarlo 
 
 ## Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+El proyecto se basa en situaciones posguerra y el estado incierto que pasan las víctimas. En especial, el protagonista es una representación de alguien que se quedó atrás, perdido, y que está intentando reencontrarse con su familia.
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
+Entre algunas referencias tanto para la historia como para la estética incluyen: La saga de Little Nightmares, Little Misfortune, Nausicaä del Valle del Viento, La Tumba de las Luciérnagas...
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
-
+- Orientado a gente jóven, preferiblemente a partir de 12-13 años.
 
 
 ## Etapa 2: Desarrollo / actividades realizadas
@@ -108,14 +102,13 @@ Este  proyecto es interesante porque ...
 
 ## Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Quería expandir más el mundo del juego y poder haber hecho más níveles con más variedades de elementos.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
+Quiero volver a arreglar las animaciones del protagonista ya que siento que no terminan de llegar a mis estándares. También considero que algunas estructuras en cuanto al código y a los botones se podrían mejorar bastante.
 
 
 
@@ -130,14 +123,15 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+* Musica:  Pixabay
+* Imágenes:  Ilustrados por la alumna
+* Tipografía: creado por la alumna
 
 **Herramientas utilizadas**
 
 - Godot Engine 4.x
-- 
+- HiPaint
+- Photoshop
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
 https://creativecommons.org/licenses/?lang=es
