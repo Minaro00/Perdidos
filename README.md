@@ -38,8 +38,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
+- Tiktok: minaro2610
+- Instagram: minaro00
 
 
 <img width="1200" height="700" alt="Beginning (1)" src="https://github.com/user-attachments/assets/8e092e92-082e-4b28-92dc-1138067e6f29" />
@@ -49,10 +49,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
+<img width="2480" height="3508" alt="HiPaint_1778142555528" src="https://github.com/user-attachments/assets/0b82ae98-8fc8-4317-a6c2-75ca1644a581" />
+<img width="2480" height="3508" alt="HiPaint_1778142549678" src="https://github.com/user-attachments/assets/8355ef10-48bf-4632-b1a8-0d211a6b1891" />
+<img width="2480" height="3508" alt="HiPaint_1778142544160" src="https://github.com/user-attachments/assets/f9ab0a43-5fc3-423c-bc7a-6ecadec82880" />
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
+El protagonista, un peluche llamado Rowan, se despierta sólo en una zona que desconoce. Desde la animación de la intro hasta este momento no sabe donde está ni se acuerda de donde viene. Empieza a investigar el área y se encuentra elementos posiblemente de su pasado.
 
 
 ### 2.2. Esquema de navegación 
@@ -69,7 +70,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Empecé por un guión que había creado en mi tiempo libre y decidí utilizarlo para este juego. Es solamente PARTE 1, ya que el guión en sí tiene 60 páginas. También tenía todos los diseños de personajes y modelos creados anteriormente entonces solamente tenía que redibujarlos para tener el tamaño apropiado para el juego.
 
 
 
