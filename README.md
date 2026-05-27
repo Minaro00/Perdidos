@@ -21,9 +21,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**  Sidescroller, RPG
 
 **Logotipo** : <img width="465" height="119" alt="Logotipo" src="https://github.com/user-attachments/assets/a5393ab2-1e77-4276-ab9f-ebe9c9686806" />
-
-
-(insertar imágenes a resolucion de 100px alto)
+<img width="1200" height="700" alt="Portada Los Objetos Perdidos Ariadna Martínez Rivas" src="https://github.com/user-attachments/assets/60ac71ed-cbdd-4027-86ce-a412b1f66456" />
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
