@@ -28,7 +28,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
-**Tamaño proyecto:** no tengo ni dea no me preguntes
+**Tamaño proyecto:** 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -39,6 +39,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Github: Minaro00
 - Tiktok: minaro2610
 - Instagram: minaro00
+- Itch.io: https://minaro00.itch.io/
+- Los Objetos Perdidos Itch.io: https://minaro00.itch.io/los-objetos-perdidos
 
 
 <img width="1200" height="700" alt="Beginning (1)" src="https://github.com/user-attachments/assets/8e092e92-082e-4b28-92dc-1138067e6f29" />
