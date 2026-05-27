@@ -58,14 +58,7 @@ El protagonista, un peluche llamado Rowan, se despierta sólo en una zona que de
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+<img width="2480" height="3508" alt="1000040521" src="https://github.com/user-attachments/assets/c4a00919-effb-4077-988c-af4a432e8fea" />
 
 
 # 3. Metodología
