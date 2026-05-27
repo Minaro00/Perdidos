@@ -31,9 +31,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : hoy :3
+**Fecha** : 28/05/2026
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
 - Github: Minaro00
 - Tiktok: minaro2610
@@ -102,14 +102,15 @@ Entre algunas referencias tanto para la historia como para la estética incluyen
 
 ## Etapa 3: Problemas identificados
 
-Quería expandir más el mundo del juego y poder haber hecho más níveles con más variedades de elementos.
+Quería expandir más el mundo del juego y poder haber hecho más níveles con más variedades de elementos. Otro problema que me encontré con era que mi versión de Godot no aceptaba videos incluso cuando se convertían en los formatos Webm. o OGV. Para arreglarlo, mis animaciones los hice utilizando un AnimatedSprite2D.
+
+Algo más que me gustaría hacer es que cuando se vuelve a entrar en una escena nueva, que puntos de diálogos no se repitirán. Actualmente, cuando se vuelve a reiniciar una escena, se reinician los diálogos y los personajes dicen lo mismo dos veces. Esto sería algo que me gustaría arreglar en el futuro.
 
 
 
 # 4. Conclusiones 
 
-Quiero volver a arreglar las animaciones del protagonista ya que siento que no terminan de llegar a mis estándares. También considero que algunas estructuras en cuanto al código y a los botones se podrían mejorar bastante.
-
+En general, estoy bastante satisfecha con el trabajo, aún teniendo en cuenta los problemas que se hayan dicho anteriormente.
 
 
 
@@ -120,6 +121,7 @@ Quiero volver a arreglar las animaciones del protagonista ya que siento que no t
 **Artículos y blogs** 
 
 - Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+
 
 **Recursos y materiales audiovisuales:**
 
@@ -133,11 +135,9 @@ Quiero volver a arreglar las animaciones del protagonista ya que siento que no t
 - HiPaint
 - Photoshop
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-https://creativecommons.org/licenses/?lang=es
+<img width="403" height="141" alt="image" src="https://github.com/user-attachments/assets/42bb1ce6-0f7b-4edf-9589-f81132cfc496" />
 
-* logos en https://creativecommons.org/mission/downloads/
   
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 
-Mayo 202X
+Mayo 2026
