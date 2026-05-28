@@ -78,7 +78,8 @@ Entre algunas referencias tanto para la historia como para la estética incluyen
 <img width="474" height="237" alt="image" src="https://github.com/user-attachments/assets/c6953823-687c-4981-8edd-201370161245" />
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ebd017a7-9fc4-4476-ad82-6fd885f62608" />
 <img width="1050" height="1500" alt="image" src="https://github.com/user-attachments/assets/4309c96d-a74e-4191-b535-e24683f2c99d" />
-<img width="1050" height="1500" alt="image" src="https://github.com/user-attachments/assets/40a6986a-19bb-43da-82f3-95aacf46baa7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f4321c15-508d-463b-b493-166ddd02fd31" />
+
 
 
 
