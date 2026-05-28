@@ -12,7 +12,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Web:**   [(url github.io)](https://github.com/Minaro00)
 
-**Autor:**  (Ariadna Martínez Rivas) 
+**Autor:**  Ariadna Martínez Rivas
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
