@@ -65,6 +65,8 @@ El protagonista, un peluche llamado Rowan, se despierta sólo en una zona que de
 
 Empecé por un guión que había creado en mi tiempo libre y decidí utilizarlo para este juego. Es solamente PARTE 1, ya que el guión en sí tiene 60 páginas. También tenía todos los diseños de personajes y modelos creados anteriormente entonces solamente tenía que redibujarlos para tener el tamaño apropiado para el juego.
 
+La gran mayoría de este guiónno estaba ilustrado y tenía que sintetizarlo para poder ajustar un guión para un cómic para un videojuego.
+
 
 
 ## Etapa 1: Ideación de proyecto
@@ -73,10 +75,15 @@ El proyecto se basa en situaciones posguerra y el estado incierto que pasan las 
 
 Entre algunas referencias tanto para la historia como para la estética incluyen: La saga de Little Nightmares, Little Misfortune, Nausicaä del Valle del Viento, La Tumba de las Luciérnagas...
 
+<img width="474" height="237" alt="image" src="https://github.com/user-attachments/assets/c6953823-687c-4981-8edd-201370161245" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ebd017a7-9fc4-4476-ad82-6fd885f62608" />
+<img width="1050" height="1500" alt="image" src="https://github.com/user-attachments/assets/4309c96d-a74e-4191-b535-e24683f2c99d" />
+<img width="1050" height="1500" alt="image" src="https://github.com/user-attachments/assets/40a6986a-19bb-43da-82f3-95aacf46baa7" />
+
+
+
 **Motivación de la propuesta** 
-
-
-
+A parte de contar la historia como tal, quería reutilizar un guión que había creado y que lleva dos años estancado. He tomado el videjuego como una oportunidad para poder desarrollar la historia que tenía ganas de hacer.
 
 
 **Publico / audiencia**
@@ -88,11 +95,10 @@ Entre algunas referencias tanto para la historia como para la estética incluyen
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego: el juego se desarrolla en escenas donde aparecen elementos distintos para interactuar e investigar. Por ahora la mayoría de los elementos no son interactivos y sería algo para mejorar en el futuro
+- Video: la animación principal del juego, creado mediante animación fotograma por fotograma
+- Instrucciones y ayuda al usuario: por ahora no existe un manual de instrucciones para el juego, que sería algo que se debería plantear para el futuro. Especialmente para indicar que el movimiento se controla mediante los botones A y D y la barra de espacio
+- Menús y elementos de navegación: existe el menu principal para entrar al juego y un menu expandible que se accede dentro del juego. El diseño del mismo sería algo para mejorar.
 
 
 
@@ -106,7 +112,7 @@ Algo más que me gustaría hacer es que cuando se vuelve a entrar en una escena 
 
 # 4. Conclusiones 
 
-En general, estoy bastante satisfecha con el trabajo, aún teniendo en cuenta los problemas que se hayan dicho anteriormente.
+En general, estoy bastante satisfecha con el trabajo, aún teniendo en cuenta los problemas que se hayan dicho anteriormente. Sería un proyecto que me encantaría seguir avanzando en mi tiempo libre.
 
 
 
