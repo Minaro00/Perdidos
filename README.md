@@ -26,9 +26,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**  Chrome
 
-**Tamaño proyecto:** 
+**Tamaño proyecto:** 75 MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -54,6 +54,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 <img width="2480" height="3508" alt="HiPaint_1778142555528" src="https://github.com/user-attachments/assets/0b82ae98-8fc8-4317-a6c2-75ca1644a581" />
 
 El protagonista, un peluche llamado Rowan, se despierta sólo en una zona que desconoce. Desde la animación de la intro hasta este momento no sabe donde está ni se acuerda de donde viene. Empieza a investigar el área y se encuentra elementos posiblemente de su pasado.
+
+La idea era que, para el resto del juego, interactuar con más personajes que revelarían la historia más en profundo.
 
 
 ### 2.2. Esquema de navegación 
@@ -113,7 +115,7 @@ Algo más que me gustaría hacer es que cuando se vuelve a entrar en una escena 
 
 # 4. Conclusiones 
 
-En general, estoy bastante satisfecha con el trabajo, aún teniendo en cuenta los problemas que se hayan dicho anteriormente. Sería un proyecto que me encantaría seguir avanzando en mi tiempo libre.
+En general, estoy bastante satisfecha con el trabajo, aún teniendo en cuenta los problemas que se hayan dicho anteriormente. Hay mucho en general que me gustaría mejorar. Sería un proyecto que me encantaría seguir avanzando en mi tiempo libre.
 
 
 
