@@ -127,7 +127,7 @@ En general, estoy bastante satisfecha con el trabajo, aún teniendo en cuenta lo
 
 **Herramientas utilizadas**
 
-- Godot Engine 4.x
+- Godot Engine 4.6x
 - HiPaint
 - Photoshop
 
